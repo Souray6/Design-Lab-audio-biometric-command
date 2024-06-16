@@ -1,4 +1,4 @@
-# Desing-Lab-audio-biometric-command
+# Design-Lab-audio-biometric-command
 
 The audio-based biometry / security and command prompt project was a team project done by Atash, Sumajit, Kowshik, Shreekrishna and myself.
 
